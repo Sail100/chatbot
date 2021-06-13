@@ -12,4 +12,4 @@ Support Sever
 https://discord.io/fansevers
 
 RUN ON REPLIT 
-(https://repl.it/github/Sail100/chatbot)
+[Replit](https://repl.it/github/Sail100/chatbot)
