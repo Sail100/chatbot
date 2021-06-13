@@ -11,5 +11,5 @@ RUN COMMAND
 Support Sever
 https://discord.io/fansevers
 
-RUN ON REPLIT 
+RUN ON  
 [Replit](https://repl.it/github/Sail100/chatbot)
